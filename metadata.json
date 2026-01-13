@@ -1,0 +1,5 @@
+{
+  "name": "Ops Configuration Dashboard",
+  "description": "A responsive dashboard for managing warehouse vendors and operation configurations.",
+  "requestFramePermissions": []
+}
